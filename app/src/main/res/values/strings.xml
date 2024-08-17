@@ -26,4 +26,18 @@
     <string name="fragment2_title">Fragment 2</string>
     <string name="button_receive">Receive</string>
     <string name="text_from_fragment1">Text from Fragment 1</string>
+
+
+
+        <!-- Login activity strings -->
+        <string name="error_empty_name">Please enter your name</string>
+        <string name="error_empty_password">Please enter your password</string>
+        <string name="error_invalid_credentials">Invalid credentials, please try again</string>
+        <string name="login_successful">Login successful!</string>
+        <string name="hint_name">Name</string>
+        <string name="hint_password">Password</string>
+        <string name="login_button">Login</string>
+
+
+
 </resources>
