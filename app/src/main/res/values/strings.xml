@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing strings for signup page -->
+    <string name="app_name">Practial</string>
+
+    <string-array name="country_array">
+        <item>Nepal</item>
+        <item>Canada</item>
+        <item>UK</item>
+        <item>Australia</item>
+        <item>India</item>
+    </string-array>
+
+    <string name="name_hint">Enter your name</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="confirm_password_hint">Confirm your password</string>
+    <string name="gender_label">Gender</string>
+    <string name="terms_label">I agree to the terms and conditions</string>
+    <string name="signup_button">Sign Up</string>
+
+    <!-- New strings for fragments -->
+    <string name="fragment1_title">Fragment 1</string>
+    <string name="hint_enter_text">Enter text</string>
+    <string name="button_send">Send</string>
+    <string name="fragment2_title">Fragment 2</string>
+    <string name="button_receive">Receive</string>
+    <string name="text_from_fragment1">Text from Fragment 1</string>
+</resources>
